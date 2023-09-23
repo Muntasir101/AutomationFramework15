@@ -93,7 +93,7 @@ pytest
 Please check [changelog](CHANGELOG.md) file to get more details about actual versions and it's release notes.
 
 ### Meta
-Author – _Volodymyr Yahello_.
+Author –
 
 Distributed under the `GPL v3` license. See [license](LICENSE.md) for more information.
 
